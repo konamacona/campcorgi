@@ -1,8 +1,8 @@
-title: Your Title
+title: Corgi Camp
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  A sleepaway camp for Corgis
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "mitchkeenan.com/corgicamp" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -33,3 +33,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+destination: "./docs"
