@@ -33,3 +33,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+destination: "docs"
