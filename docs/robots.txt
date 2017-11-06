@@ -1,4 +1,4 @@
-Sitemap: mitchkeenan.com/corgicamp/sitemap.xml
+Sitemap: http://mitchkeenan.com/sitemap.xml
 
 User-agent: *
 Disallow: /css

@@ -1,8 +1,8 @@
 title: Corgi Camp
 description: > # this means to ignore newlines until "baseurl:"
   A sleepaway camp for Corgis
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "mitchkeenan.com/corgicamp" # the base hostname & protocol for your site
+baseurl: "/corgicamp" # the subpath of your site, e.g. /blog
+url: "http://mitchkeenan.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
