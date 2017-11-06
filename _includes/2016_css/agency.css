@@ -28,18 +28,6 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
-@media screen and (max-width : 1200px){
-  body {
-      padding-bottom: 100px;
-  }
-}
-
-@media screen and (max-width : 768px){
-  body {
-      padding-bottom: 150px;
-  }
-}
-
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
